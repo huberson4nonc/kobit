@@ -1,2 +1,2 @@
 # kobit
-PHP Templating Engine
+PHP Templating Engine.
